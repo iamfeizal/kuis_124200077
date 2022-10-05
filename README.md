@@ -5,7 +5,7 @@ Plug : Praktikum Pemrograman Moblile SI-C
 
 Screenshots :
 
-<img src="/screenshots/splachscreen.png" alt="SplachScreen" title="SplachScreen" height="700">
+<img src="/screenshots/splashscreen.png" alt="SplashScreen" title="SplashScreen" height="700">
 <img src="/screenshots/launcher.png" alt="Launcher" title="Launcher">
 <img src="/screenshots/home.png" alt="Home" title="Home" height="700">
 <img src="/screenshots/about.png" alt="About" title="About" height="700">

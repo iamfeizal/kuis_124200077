@@ -4,8 +4,8 @@ NIM  : 124200077
 Plug : Praktikum Pemrograman Moblile SI-C
 
 Screenshots :
-![Employee data](/screenshots/home.png?raw=true "Employee Data title")
-<img src="/screenshots/home.png" alt="Employee data" title="Employee Data title" height="700">
+
+<img src="/screenshots/home.png" alt="Home" title="Home" height="700">
 
 A new Flutter project.
 

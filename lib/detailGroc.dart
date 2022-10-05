@@ -24,7 +24,7 @@ class _DetailGroceriesState extends State<DetailGroceries> {
 
   Widget build(BuildContext context) {
     final Groceries item_groc = groceryList[widget.grocIdx];
-    final double a = double.parse(item_groc.reviewAverage);
+    double a = double.parse(item_groc.reviewAverage);
     _initialRating = a;
     return Scaffold(
       appBar: AppBar(

@@ -1,4 +1,10 @@
 # kuis_124200077
+Nama : Imam Agus Faisal
+NIM  : 124200077
+Plug : Praktikum Pemrograman Moblile SI-C
+
+Screenshots :
+![Employee data](/repository/screenshots/home.png?raw=true "Employee Data title")
 
 A new Flutter project.
 

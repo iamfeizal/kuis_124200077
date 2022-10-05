@@ -5,7 +5,7 @@ Plug : Praktikum Pemrograman Moblile SI-C
 
 Screenshots :
 ![Employee data](/screenshots/home.png?raw=true "Employee Data title")
-<img src="/repository/screenshots/home.png" alt="Employee data" title="Employee Data title">
+<img src="/screenshots/home.png" alt="Employee data" title="Employee Data title" height="60" width="60">
 
 A new Flutter project.
 

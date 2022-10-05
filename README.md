@@ -5,7 +5,13 @@ Plug : Praktikum Pemrograman Moblile SI-C
 
 Screenshots :
 
+<img src="/screenshots/splachscreen.png" alt="SplachScreen" title="SplachScreen" height="700">
+<img src="/screenshots/launcher.png" alt="Launcher" title="Launcher">
 <img src="/screenshots/home.png" alt="Home" title="Home" height="700">
+<img src="/screenshots/about.png" alt="About" title="About" height="700">
+<img src="/screenshots/detail_1.png" alt="Detail 1" title="Detail 1" height="700">
+<img src="/screenshots/detail_2.png" alt="Detail 2" title="Detail 2" height="700">
+<img src="/screenshots/open_link.png" alt="Open Link" title="Open Link" height="700">
 
 A new Flutter project.
 

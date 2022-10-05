@@ -4,7 +4,7 @@ NIM  : 124200077
 Plug : Praktikum Pemrograman Moblile SI-C
 
 Screenshots :
-![Employee data](/kuis_124200077/screenshots/home.png?raw=true "Employee Data title")
+![Employee data](/screenshots/home.png?raw=true "Employee Data title")
 <img src="/repository/screenshots/home.png" alt="Employee data" title="Employee Data title">
 
 A new Flutter project.
